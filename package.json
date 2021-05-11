@@ -37,7 +37,7 @@
         "imagemin": "^6.0.0",
         "jsonexport": "^2.4.1",
         "laravel-echo": "^1.5.2",
-        "lodash": "^4.17.11",
+        "lodash": "^4.17.21",
         "node-sass": "^4.11.0",
         "pusher-js": "^4.3.1",
         "sweetalert2": "^7.32.4",
