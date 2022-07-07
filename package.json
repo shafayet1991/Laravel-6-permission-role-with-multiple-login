@@ -22,7 +22,7 @@
         "laravel-mix": "^4.0.13",
         "locutus": "^2.0.10",
         "metismenu": "^2.7.9",
-        "moment": "^2.23.0",
+        "moment": "^2.29.4",
         "resolve-url-loader": "^3.1.0",
         "sass-loader": "^7.3.1",
         "vue": "^2.5.21",
