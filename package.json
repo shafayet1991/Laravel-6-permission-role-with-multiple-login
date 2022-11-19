@@ -23,12 +23,12 @@
         "locutus": "^2.0.10",
         "metismenu": "^2.7.9",
         "moment": "^2.23.0",
-        "resolve-url-loader": "^3.1.0",
+        "resolve-url-loader": "^5.0.0",
         "sass-loader": "^7.3.1",
         "vue": "^2.5.21",
         "vue-template-compiler": "^2.6.11",
         "webpack": "^4.28.3",
-        "webpack-cli": "^3.2.0"
+        "webpack-cli": "^3.3.12"
     },
     "dependencies": {
         "ajv": "^6.6.2",
